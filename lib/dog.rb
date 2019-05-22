@@ -8,5 +8,4 @@ class Dog
 
 end 
 
-fido.name = "Fido" 
-fido = Dog.bark
+fido.name = "fido"
